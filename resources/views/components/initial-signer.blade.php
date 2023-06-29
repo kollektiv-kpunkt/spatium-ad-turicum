@@ -1,8 +1,8 @@
 <?php
 $signers = [
     "Anna-Béatrice Schmaltz" => "Präsidentin Grüne Stadt Zürich, Gemeinderätin",
-    "Moritz Bögli" => "Gemeinderat AL, Anwohner",
-    "Nicola Siegrist" => "Kantonsrat SP, Anwohner"
+    "Moritz Bögli" => "Gemeinderat AL",
+    "Nicola Siegrist" => "Kantonsrat SP"
 ]
 ?>
 <div class="cpt-initial-signers">
