@@ -16,7 +16,7 @@ $parser = new Illuminate\Support\Str;
         @endif
         <div class="sat-card my-12">
             <h2 class="text-2xl md:text-3xl font-black uppercase !leading-none mb-4">Wir brauchen Platz, lieber Stadtrat!</h2>
-            <p class="mb-4">Die Stadtbevölkerung wächst, der Platz für sie aber nicht genug schnell. Und mitten drin lassen Liegenschaftseigentümer*innen ihre Gebäude brach liegen und räumen alle kreativen Nutzungen mit irrsinnigen Ausreden. <b>Das darf nicht sein!</b> Unterzeichne unseren Brief und fordere mit uns den Stadtrat dazu auf, sich um diesen Misstand zu kümmern!</p>
+            <p class="mb-4">Die Stadtbevölkerung wächst, der Platz für sie aber nicht genug schnell. Und mitten drin lassen Liegenschaftseigentümer*innen ihre Gebäude brach liegen. <b>Das darf nicht sein!</b> Unterzeichne unseren Brief und fordere mit uns den Stadtrat dazu auf, sich um diesen Misstand zu kümmern!</p>
             <x-form />
         </div>
         <div class="sat-addressants flex gap-x-12 gap-y-3 flex-wrap mb-8">

@@ -19,7 +19,7 @@ return [
         ],
         "spzuerich" => [
             "de" => <<<EOD
-            Ich bin einverstanden, dass mich die SP Stadt Zürich auf dem Laufenden hält. <a class="underline" href="https://zuerich.spkantonzh.ch/datenschutz/" target="_blank">Mehr dazu in unseren Datenschutzbestimmungen</a>.
+            Ich bin einverstanden, dass mich die SP hält. <a class="underline" href="https://zuerich.spkantonzh.ch/datenschutz/" target="_blank">Mehr dazu in unseren Datenschutzbestimmungen</a>.
         EOD,
         ],
         "spkanton" => [

@@ -2,6 +2,7 @@
 $signers = [
     "Anna-Béatrice Schmaltz" => "Präsidentin Grüne Stadt Zürich, Gemeinderätin",
     "Moritz Bögli" => "Gemeinderat AL",
+    "Lisa Diggelmann" => "Gemeinderätin SP",
     "Martin Busekros" => "Gemeinderat Grüne",
     "Nicola Siegrist" => "Kantonsrat SP"
 ]
