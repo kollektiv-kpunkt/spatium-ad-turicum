@@ -12,6 +12,3 @@ Geschätzte Mitglieder des Stadtrats,
 2. Der Stadtrat fordert die eigenen, staatsnahen und auch privaten Betriebe dazu auf, vor einem Leerstand einen konkreten Plan zu präsentieren, wie das Gebäude in Zukunft im Sinne der Stadtbevölkerung genutzt wird. Ansonsten sollen leerstehende Gebäude nach einer gewissen Zeit automatisch in die Allgemeinnutzung fallen.
 3. Konkret kauft der Stadtrat der Post die alte Poststelle am Wipkingerplatz ab, um eine Langfristig unkommerzielle, selbstverwaltete Nutzung zu ermöglichen.
 4. Der Stadtrat führt in Zukunft keine Räumungen auf Vorrat durch: Dies gilt insbesondere für die Nutzung der Post am Wipkingerplatz.
-
-
-**Mit freundlichen Grüssen,**<br>
