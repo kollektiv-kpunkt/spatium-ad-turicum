@@ -15,4 +15,3 @@ Geschätzte Mitglieder des Stadtrats,
 
 
 **Mit freundlichen Grüssen,**<br>
-Die Grünen der Stadt Zürich

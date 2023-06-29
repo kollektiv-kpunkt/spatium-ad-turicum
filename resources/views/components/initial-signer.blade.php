@@ -1,6 +1,7 @@
 <?php
 $signers = [
     "Anna-Béatrice Schmaltz" => "Präsidentin Grüne Stadt Zürich, Gemeinderätin",
+    "Moritz Bögli" => "Gemeinderat AL, Anwohner",
     "Nicola Siegrist" => "Kantonsrat SP, Anwohner"
 ]
 ?>

@@ -30,7 +30,7 @@ $parser = new Illuminate\Support\Str;
                 echo $parser->markdown($letter);
             @endphp
         </div>
-        {{-- <x-initial-signer /> --}}
+        <x-initial-signer />
         @if (supporterCount() > 10)
             <div class="sat-all-signers mt-4 mb-12" x-data="{open: false}">
                 <p class="underline cursor-pointer" x-on:click="open = ! open">und {{ number_format(supporterCount(),0,".","'" ) }} weitere Unterzeichnende</p>
