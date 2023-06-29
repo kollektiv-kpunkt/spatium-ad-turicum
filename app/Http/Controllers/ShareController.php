@@ -18,7 +18,7 @@ class ShareController extends Controller
         if ((isset($_GET["source"]) && $_GET["source"] != "") || (isset($_COOKIE["sat_source"]) && $_COOKIE["sat_source"] != "")) {
             $source = isset($_GET["source"]) ? $_GET["source"] : $_COOKIE["sat_source"];
             $shareUrl .= "/s/{$source}";
-            $shareText = str_replace("https://platz-fuer-zueri.ch", $shareUrl, __("sat.share.text"));
+            $shareText = str_replace("https://zueri-brucht-platz.ch", $shareUrl, __("sat.share.text"));
         } else {
             $shareText = __("sat.share.text");
         }
