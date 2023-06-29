@@ -3,13 +3,13 @@
 return [
 
     /**
-     * Language Lines for «Platz für Züri» petition
+     * Language Lines for «Züri brucht Platz» petition
      *
      */
 
     "site" => [
         "title" => "Unterschreibe unsere Petition!",
-        "masthead" => "Wir brauch Platz für Züri!",
+        "masthead" => "Wir brauch Züri brucht Platz!",
         "url" => "https://zueri-brucht-platz.ch",
         "description" => "Die Stadtbevölkerung wächst, der Platz für sie aber nicht genug schnell. Und mitten drin lassen Liegenschafteigentümer*innen ihre Gebäude brach stehen und räumen alle kreativen Nutzungen mit irrsinnigen Ausreden. Das darf nicht sein!",
     ],
@@ -61,7 +61,7 @@ return [
     ],
     "email" => [
         "from" => [
-            "name" => "Komitee «Platz für Züri»",
+            "name" => "Komitee «Züri brucht Platz»",
             "address" => env('MAIL_FROM_ADDRESS')
         ]
     ],

@@ -1,5 +1,5 @@
 <?php
-$shareurl = "https://volksentscheide-respektieren.ch/share/[[PLATTFORM]]";
+$shareurl = "https://https://zueri-brucht-platz.ch/share/[[PLATTFORM]]";
 if (isset($_COOKIE["sat_source"])) {
     $shareurl .= "?source=" . $_COOKIE["sat_source"];
 }
@@ -164,9 +164,9 @@ table, td { color: #203a8d; } #u_body a { color: #c00795; text-decoration: under
   <div style="font-size: 17px; line-height: 140%; text-align: left; word-wrap: break-word;">
     <p style="line-height: 140%;"><strong>Liebe*r {{$supporter->data["fname"]}}</strong></p>
 <p style="line-height: 140%;"> </p>
-<p style="line-height: 140%;">Danke vielmals, dass du unseren Brief unterschrieben hast! Zusammen schaffen wir es, dass unsere Gegner die Einführung des Mindestlohns nicht länger verzögern können!</p>
+<p style="line-height: 140%;">Danke vielmals, dass du unsere Petition unterschrieben hast! Zusammen schaffen wir es, dass der Stadtrat nun endlich vorwärts macht!</p>
 <p style="line-height: 140%;"> </p>
-<p style="line-height: 140%;">Damit wir möglichst viel Unterstützung für unser Anliegen erhalten, brauchen wir deine Hilfe: <strong>Kannst du dir vorstellen, unseren Brief noch mit deinem Umfeld zu teilen?</strong></p>
+<p style="line-height: 140%;">Damit wir möglichst viel Unterstützung für unser Anliegen erhalten, brauchen wir deine Hilfe: <strong>Kannst du dir vorstellen, unsere Petition noch mit deinem Umfeld zu teilen?</strong></p>
   </div>
 
       </td>
@@ -240,8 +240,8 @@ table, td { color: #203a8d; } #u_body a { color: #c00795; text-decoration: under
     <p style="line-height: 140%;">Danke nochmals für deine Mithilfe!</p>
 <p style="line-height: 140%;"> </p>
 <p style="line-height: 140%;">Liebe Grüsse,</p>
-<p style="line-height: 140%;">Das Komitee «Volksentscheide Respektieren»</p>
-<p style="line-height: 140%;"><a rel="noopener" href="https://volksentscheide-respektieren.ch/" target="_blank">volksentscheide-respektieren.ch</a></p>
+<p style="line-height: 140%;">Das Komitee «Züri brucht Platz»</p>
+<p style="line-height: 140%;"><a rel="noopener" href="https://https://zueri-brucht-platz.ch/" target="_blank">zueri-brucht-platz.ch</a></p>
   </div>
 
       </td>
