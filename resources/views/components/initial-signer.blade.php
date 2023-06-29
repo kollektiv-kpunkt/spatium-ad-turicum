@@ -7,7 +7,7 @@ $signers = [
 ]
 ?>
 <div class="cpt-initial-signers">
-    <b>Mit freundlichen Grüssen,</b><br>
+    <p><b>Mit freundlichen Grüssen,</b></p>
     @foreach ($signers as $name => $position)
         <span><b>{{$name}}</b> ({{$position}})</span>
         @if (!$loop->last)
