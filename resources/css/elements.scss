@@ -1,0 +1,59 @@
+@import "./signup-form.scss";
+
+/**
+* Card
+*/
+.sat-card {
+    border: 0.5px solid theme('colors.red');
+    border-top: 10px solid theme('colors.red');
+    padding-top: calc(1.5rem - 10px) !important;
+    @apply bg-green text-white p-4 md:p-6 drop-shadow-2xl;
+
+    @media (max-width: 767px) {
+        border-top: 5px solid theme('colors.red');
+        padding-top: calc(1rem - 5px);
+    }
+}
+
+/**
+* Button
+*/
+.sat-button {
+    @apply inline-block px-4 py-2 text-white bg-green text-center font-bold;
+}
+
+/**
+* Social Share
+*/
+
+.sat-social-share {
+
+
+    &__button {
+        background-color: var(--bg-color, theme("colors.green")) !important;
+
+        &[data-share-type="whatsapp"] {
+            --share-icon: "\e957";
+            --bg-color: #25D366;
+        }
+
+        &[data-share-type="telegram"] {
+            --share-icon: "\ed75";
+            --bg-color: #0088cc;
+        }
+
+        &[data-share-type="facebook"] {
+            --share-icon: "\ed37";
+            --bg-color: #3b5998;
+        }
+
+        &[data-share-type="twitter"] {
+            --share-icon: "\ed7a";
+            --bg-color: #1da1f2;
+        }
+
+        &[data-share-type="email"] {
+            --share-icon: "\efdf";
+        }
+    }
+}

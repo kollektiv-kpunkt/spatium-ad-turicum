@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "./containers.scss";
+@import "./elements.scss";
+@import "./typo.scss";
+
+html {
+    scroll-behavior: smooth;
+    @apply bg-white;
+}
+
+::selection {
+    color: #ffffff;
+    background-color: theme("colors.red");
+}
