@@ -10,7 +10,7 @@ $parser = new Illuminate\Support\Str;
             </div>
         @endif
         @if($errors->any())
-        <div class="sat-page-heroine__alert--error bg-orange-200 border-red-700 border text-red-700 font-bold p-4 mb-6 sticky top-0 z-50">
+        <div class="sat-page-heroine__alert--error bg-red-200 border-red-700 border text-red-700 font-bold p-4 mb-6 sticky top-0 z-50">
             <p>{{__("sat.form.errormessage")}}</p>
         </div>
         @endif
