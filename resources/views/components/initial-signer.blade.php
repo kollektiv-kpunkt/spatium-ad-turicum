@@ -4,7 +4,8 @@ $signers = [
     "Moritz Bögli" => "Gemeinderat AL",
     "Lisa Diggelmann" => "Gemeinderätin SP",
     "Martin Busekros" => "Gemeinderat Grüne",
-    "Nicola Siegrist" => "Kantonsrat SP"
+    "Nicola Siegrist" => "Kantonsrat SP",
+    "Michel Makhlouf" => "Co-Präsident SP 10"
 ]
 ?>
 <div class="cpt-initial-signers">
