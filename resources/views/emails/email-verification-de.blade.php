@@ -241,7 +241,7 @@ table, td { color: #000000; } #u_body a { color: #c00795; text-decoration: under
 <p style="line-height: 140%;"> </p>
 <p style="line-height: 140%;">Liebe Grüsse,</p>
 <p style="line-height: 140%;">Das Komitee «Züri brucht Platz»</p>
-<p style="line-height: 140%;"><a rel="noopener" href="https://https://zueri-brucht-platz.ch/" target="_blank">zueri-brucht-platz.ch</a></p>
+<p style="line-height: 140%;"><a rel="noopener" href="https://zueri-brucht-platz.ch/" target="_blank">zueri-brucht-platz.ch</a></p>
   </div>
 
       </td>
