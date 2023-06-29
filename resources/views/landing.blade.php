@@ -21,15 +21,7 @@ $parser = new Illuminate\Support\Str;
         </div>
         <div class="sat-addressants flex gap-x-12 gap-y-3 flex-wrap mb-8">
             <div class="sat-addressant w-full">
-                <p class="text-xs">Petition an die Mitglieder des Stadtrates, namentlich an</p>
-            </div>
-            <div class="sat-addressant md:w-fit w-full">
-                <p class="text-xs">die Vorsteherin des Tiefbau- und Entsorgungsdepartements</p>
-                <p class="mt-1"><b>Simone Brander</b></p>
-            </div>
-            <div class="sat-addressant md:w-fit w-full">
-                <p class="text-xs">den Vorsteher des Hochbaudepartements</p>
-                <p class="mt-1"><b>André Odermatt</b></p>
+                <p class="text-xs">Petition an die Mitglieder des Stadtrates</p>
             </div>
         </div>
         <div class="sat-letter mb-8">

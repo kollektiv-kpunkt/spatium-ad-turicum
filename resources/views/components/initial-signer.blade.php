@@ -1,16 +1,7 @@
 <?php
 $signers = [
     "Anna-Béatrice Schmaltz" => "Präsidentin Grüne Stadt Zürich, Gemeinderätin",
-    "Serge Gnos" => "Co-Geschäftsleiter Unia Zürich-Schaffhausen",
-    "Adriana Santos" => "Reinigungsangestellte",
-    "Susanna Bosshard" => "Zeitungsverträgerin",
-    "Montserrat Puertas" => "Reinigungsangestellte",
-    "Angela Siciliano" => "Hilfsköchin",
-    "Francisca Castro" => "Reinigungsangestellte",
-    "Maria Filomena da Cruz" => "Raumpflegerin",
-    "Carmela Simonato" => "Platzanweiserin",
-    "Gabrielly Sirino" => "Reinigungsangestellte",
-    "Isabel Vargas" => "Reinigungsangestellte"
+    "Nicola Siegrist" => "Kantonsrat SP, Anwohner"
 ]
 ?>
 <div class="cpt-initial-signers">

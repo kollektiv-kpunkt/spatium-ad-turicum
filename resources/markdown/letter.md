@@ -1,6 +1,4 @@
-Geschätzte Mitglieder des Stadtrats,<br>
-Geschätzte Frau Stadträtin Brander,<br>
-Geschätzter Herr Stadtrat Odermatt<br>
+Geschätzte Mitglieder des Stadtrats,
 
 
 **In der Stadt Zürich ist Raum- und Bodennutzung ein Dauerthema:** Sei es bei explodierenden Mietpreisen, dem stetig schrumpfenden Raum ohne Konsumzwang oder dem fehlenden Platz für unabhängige Kultur, Kleinkunst und Freiraum. Aus diesem Grund ist es kein Wunder, dass wir in der nahen Vergangenheit regelmässig kreative und gewaltfreie Nutzungen von leerstehenden Gebäuden erlebten: Im Kesselhaus der ewz (geräumt im November des letzten Jahres), auf dem Koch-Areal (nach einem Jahrzehnt geräumt im Februar 2023) und jüngst in der seit 6 Jahren brachliegenden Poststelle am Wipkingerplatz. Dies in einer Stadt, mit einem Opernhaus, mehreren Theatern und Räumen für «haute culture», aber wenig Platz für unabhängige Kultur und Kleinkunst. Und in Zürich, in der die Vielfalt der Kultur zugunsten von Gewinnmaximierung verloren geht. Genau hier steht ein Gebäude leer, in dem für all diese Vorhaben und noch viel mehr Platz genug wäre. **Doch diejenigen, welche die Gebäude seit Jahren, teils Jahrzehnten leer stehen lassen, verstecken sich hinter Ausreden:** Sie behaupten, dass eine Umnutzung die Stromversorgung der Stadt gefährde und die «schlechte Bausubstanz» Personen gefährde,  oder dass ein Gebäude rechtlich nur für einen bestimmten Zweck genutzt werden dürfe.
