@@ -11,7 +11,7 @@ return [
         "title" => "Unterschreibe unsere Petition!",
         "masthead" => "Wir brauch Züri brucht Platz!",
         "url" => "https://zueri-brucht-platz.ch",
-        "description" => "Die Stadtbevölkerung wächst, der Platz für sie aber nicht genug schnell. Und mitten drin lassen Liegenschafteigentümer*innen ihre Gebäude brach liegen und räumen alle kreativen Nutzungen mit irrsinnigen Ausreden. Das darf nicht sein!",
+        "description" => "Die Stadtbevölkerung wächst, der Platz für sie aber nicht genug schnell. Und mitten drin lassen Liegenschaftseigentümer*innen ihre Gebäude brach liegen und räumen alle kreativen Nutzungen mit irrsinnigen Ausreden. Das darf nicht sein!",
     ],
     "form" => [
         "title" => "Füge deinen Namen hinzu!",
@@ -80,7 +80,7 @@ return [
     "share" => [
         "title" => "Hilf mit und teile unseren Brief!",
         "sharetitle" => "Wir brauchen Platz: Unterschreibe jetzt unsere Petition! ",
-        "text" => "Hoi👋\nDie Stadtbevölkerung wächst, der Platz für sie aber nicht genug schnell. Und mitten drin lassen Liegenschafteigentümer*innen ihre Gebäude brach liegen und räumen alle kreativen Nutzungen mit irrsinnigen Ausreden. Das darf nicht sein! Ich habe drum gerade eine Petition unterschrieben, hilfst du auch mit?📝\n👉 https://platz-fuer-zueri.ch",
+        "text" => "Hoi👋\nDie Stadtbevölkerung wächst, der Platz für sie aber nicht genug schnell. Und mitten drin lassen Liegenschaftseigentümer*innen ihre Gebäude brach liegen und räumen alle kreativen Nutzungen mit irrsinnigen Ausreden. Das darf nicht sein! Ich habe drum gerade eine Petition unterschrieben, hilfst du auch mit?📝\n👉 https://platz-fuer-zueri.ch",
         "tweet" => "Die Stadtbevölkerung wächst, der Platz für sie aber nicht genug schnell. Und mitten drin stehen Gebäude brach liegen. Das darf nicht sein! Ich habe drum gerade eine Petition unterschrieben, hilfst du auch mit?📝\n 👉 https://platz-fuer-zueri.ch",
         "buttons" => [
             "whatsapp" => "Auf WhatsApp teilen",

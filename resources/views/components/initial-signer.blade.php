@@ -1,6 +1,6 @@
 <?php
 $signers = [
-    "Hannah Pfalzgraf" => "Co-Präsidentin GBKZ",
+    "Anna-Béatrice Schmaltz" => "Präsidentin Grüne Stadt Zürich, Gemeinderätin",
     "Serge Gnos" => "Co-Geschäftsleiter Unia Zürich-Schaffhausen",
     "Adriana Santos" => "Reinigungsangestellte",
     "Susanna Bosshard" => "Zeitungsverträgerin",
