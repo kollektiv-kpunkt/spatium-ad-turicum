@@ -9,7 +9,7 @@ class ShareController extends Controller
 {
 
     public function share($platform) {
-        if (!in_array($platform, ["facebook", "twitter", "whatsapp", "email"])) {
+        if (!in_array($platform, ["facebook", "twitter", "whatsapp", "email", "telegram"])) {
             return redirect("/");
         }
         $tracker = new TrackerProvider();
