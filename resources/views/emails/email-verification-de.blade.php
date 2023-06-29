@@ -88,21 +88,21 @@ a[x-apple-data-detectors='true'] {
   text-decoration: none !important;
 }
 
-table, td { color: #203a8d; } #u_body a { color: #c00795; text-decoration: underline; } @media (max-width: 480px) { #u_row_1.v-row-padding--vertical { padding-top: 0px !important; padding-bottom: 0px !important; } }
+table, td { color: #000000; } #u_body a { color: #c00795; text-decoration: underline; } @media (max-width: 480px) { #u_row_1.v-row-padding--vertical { padding-top: 0px !important; padding-bottom: 0px !important; } }
     </style>
 
 
 
 </head>
 
-<body class="clean-body u_body" style="margin: 0;padding: 0;-webkit-text-size-adjust: 100%;background-color: #fdd391;color: #203a8d">
+<body class="clean-body u_body" style="margin: 0;padding: 0;-webkit-text-size-adjust: 100%;background-color: #ffffff;color: #000000">
   <!--[if IE]><div class="ie-container"><![endif]-->
   <!--[if mso]><div class="mso-container"><![endif]-->
-  <table id="u_body" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;min-width: 320px;Margin: 0 auto;background-color: #fdd391;width:100%" cellpadding="0" cellspacing="0">
+  <table id="u_body" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;min-width: 320px;Margin: 0 auto;background-color: #ffffff;width:100%" cellpadding="0" cellspacing="0">
   <tbody>
   <tr style="vertical-align: top">
     <td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top">
-    <!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" style="background-color: #fdd391;"><![endif]-->
+    <!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" style="background-color: #ffffff;"><![endif]-->
 
 
 <div id="u_row_1" class="u-row-container v-row-padding--vertical" style="padding: 20px 0px 0px;background-color: transparent">
@@ -219,8 +219,8 @@ table, td { color: #203a8d; } #u_body a { color: #c00795; text-decoration: under
 
   <!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
 <div align="center">
-  <!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="{{str_replace("[[PLATTFORM]]", "email", $shareurl)}}" style="height:39px; v-text-anchor:middle; width:208px;" arcsize="10.5%"  stroke="f" fillcolor="#203a8d"><w:anchorlock/><center style="color:#FFFFFF;font-family:arial,helvetica,sans-serif;"><![endif]-->
-    <a href="{{str_replace("[[PLATTFORM]]", "email", $shareurl)}}" target="_blank" class="v-button" style="box-sizing: border-box;display: inline-block;font-family:arial,helvetica,sans-serif;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #203a8d; border-radius: 4px;-webkit-border-radius: 4px; -moz-border-radius: 4px; width:auto; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 16px;">
+  <!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="{{str_replace("[[PLATTFORM]]", "email", $shareurl)}}" style="height:39px; v-text-anchor:middle; width:208px;" arcsize="10.5%"  stroke="f" fillcolor="#E10078"><w:anchorlock/><center style="color:#FFFFFF;font-family:arial,helvetica,sans-serif;"><![endif]-->
+    <a href="{{str_replace("[[PLATTFORM]]", "email", $shareurl)}}" target="_blank" class="v-button" style="box-sizing: border-box;display: inline-block;font-family:arial,helvetica,sans-serif;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #E10078; border-radius: 4px;-webkit-border-radius: 4px; -moz-border-radius: 4px; width:auto; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 16px;">
       <span style="display:block;padding:10px 30px;line-height:120%;"><strong><span style="line-height: 19.2px;">Per E-Mail teilen 💬</span></strong></span>
     </a>
   <!--[if mso]></center></v:roundrect><![endif]-->
