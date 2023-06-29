@@ -8,9 +8,9 @@ module.exports = {
     theme: {
         extend: {
             colors: {
-                'blue': '#0013C1',
-                "red": "#e10078",
-                "green": "#009B3E"
+                'blau': '#0013C1',
+                "rot": "#e10078",
+                "gruen": "#009B3E"
             },
             fontSize: {
                 "2xs": ".625rem"

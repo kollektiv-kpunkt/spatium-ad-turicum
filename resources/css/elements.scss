@@ -4,13 +4,13 @@
 * Card
 */
 .sat-card {
-    border: 0.5px solid theme('colors.red');
-    border-top: 10px solid theme('colors.red');
+    border: 0.5px solid theme('colors.rot');
+    border-top: 10px solid theme('colors.rot');
     padding-top: calc(1.5rem - 10px) !important;
-    @apply bg-green text-white p-4 md:p-6 drop-shadow-2xl;
+    @apply bg-gruen text-white p-4 md:p-6 drop-shadow-2xl;
 
     @media (max-width: 767px) {
-        border-top: 5px solid theme('colors.red');
+        border-top: 5px solid theme('colors.rot');
         padding-top: calc(1rem - 5px);
     }
 }
@@ -19,7 +19,7 @@
 * Button
 */
 .sat-button {
-    @apply inline-block px-4 py-2 text-white bg-green text-center font-bold;
+    @apply inline-block px-4 py-2 text-white bg-gruen text-center font-bold;
 }
 
 /**
@@ -30,7 +30,7 @@
 
 
     &__button {
-        background-color: var(--bg-color, theme("colors.green")) !important;
+        background-color: var(--bg-color, theme("colors.gruen")) !important;
 
         &[data-share-type="whatsapp"] {
             --share-icon: "\e957";
