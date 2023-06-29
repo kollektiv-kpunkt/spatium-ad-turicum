@@ -1,5 +1,5 @@
 <?php
-$shareurl = "https://https://zueri-brucht-platz.ch/share/[[PLATTFORM]]";
+$shareurl = "https://zueri-brucht-platz.ch/share/[[PLATTFORM]]";
 if (isset($_COOKIE["sat_source"])) {
     $shareurl .= "?source=" . $_COOKIE["sat_source"];
 }
